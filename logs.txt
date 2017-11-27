@@ -1,0 +1,21 @@
+Bienvenido al juego de Blackjack
+Usted tiene: $100  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+?
+50Usted tiene: $50  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+?
+0
+Sales con $ 50 Bienvenido al juego de Blackjack
+Usted tiene: $100  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+?
+50Usted tiene: $150  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+?
+20Usted tiene: $130  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+?
+60Usted tiene: $190  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+?
+50Usted tiene: $140  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+?
+60Usted tiene: $80  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+?
+0
+Sales con $ 80 
